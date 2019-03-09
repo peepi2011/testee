@@ -1,0 +1,4 @@
+tr td:first-child {
+  cursor: pointer;
+  color: blue;
+}
